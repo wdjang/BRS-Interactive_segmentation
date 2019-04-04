@@ -1,5 +1,6 @@
 # BRS: Interactive image segmentation
 Code written by Won-Dong Jang
+
 Contact: Won-Dong Jang, wdjang@g.harvard.edu
 
 If you want to use this software, please cite:
@@ -8,6 +9,7 @@ Won-Dong Jang and Chang-Su Kim, "Interactive Image Segmentation via Backpropagat
 
 ## Quick start
 BRS_demo.py performs segmentation using a user interface.
+
 BRS_main.py runs the proposed BRS by generating user clicks iteratively.
 
 ## Pre-trained model
