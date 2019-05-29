@@ -7,6 +7,8 @@ If you want to use this software, please cite:
 
 Won-Dong Jang and Chang-Su Kim, "Interactive Image Segmentation via Backpropagating Refinement Scheme," CVPR 2019
 
+The paper can be found at https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme
+
 ## Quick start
 BRS_demo.py performs segmentation using a user interface.
 
